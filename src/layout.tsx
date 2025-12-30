@@ -11,7 +11,7 @@ import { Toaster } from "@/components/ui/sonner";
 
 export default function Layout() {
   return (
-    <SidebarProvider defaultOpen={false}>
+    <SidebarProvider defaultOpen={true}>
       <AppSidebar variant="floating" />
       <SidebarInset className="min-h-screen">
         <SidebarTrigger className="fixed left-3 top-3 md:hidden z-5" />

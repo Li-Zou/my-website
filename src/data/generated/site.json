@@ -1,8 +1,8 @@
 {
-  "name": "Showlit",
-  "repoUrl": "https://github.com/pm25/showlit",
+  "name": "my-website",
+  "repoUrl": "https://github.com/Li-Zou/my-website",
   "description": "A short description",
-  "author": "Your Name",
-  "repoName": "showlit",
-  "base": "/showlit/"
+  "author": "Li Zou",
+  "repoName": "my-website",
+  "base": "/my-website/"
 }

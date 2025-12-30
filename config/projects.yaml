@@ -15,37 +15,28 @@
 
 projects:
   items:
+    - id: "Deep-learning" # name of your GitHub repository (from: github.com/<your-username>/<repo-name>)
+      displayName: "Deep learning" # name that will be displayed on the website
+      previewImage: /data/images/deep_learning.jpg
+      featured: true
+
     - id: "example-project" # name of your GitHub repository (from: github.com/<your-username>/<repo-name>)
       displayName: "[Project Name]" # name that will be displayed on the website
       previewImage: https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg
       featured: true
 
     - id: "showlit"
-      displayName: "Showlit"
+      displayName: "Showlit22"
       previewImage: https://pm25.github.io/showlit/images/full_logo.png
       featured: true
 
-    - id: "Semi-Supervised-Regression"
-      displayName: "Semi-Supervised Regression"
-      previewImage: https://pm25.github.io/research-figures/rankup/figures/rankup-illustration.png
-      featured: true
-
-    - id: "SimplePlus-BeamerTheme"
+    - id: "https://github.com/Li-Zou/Deep-learning"
       displayName: "SimplePlus Beamer Theme"
       previewImage: https://raw.githubusercontent.com/pm25/simpleplus-beamerTheme/master/preview/slide-1.webp
-      featured: true
-
-    - id: "SimpleDarkBlue-BeamerTheme"
-      displayName: "SimpleDarkBlue Beamer Theme"
-      previewImage: https://raw.githubusercontent.com/pm25/simpledarkblue-beamertheme/master/preview/slide-1.webp
       featured: true
 
     - id: "pm25.github.io"
       displayName: "pm25.github.io"
       previewImage: null
-      featured: true
-
-    - id: "flappy-bird"
-      displayName: "Flappy Bird"
-      previewImage: null
       featured: false
+

@@ -4,7 +4,7 @@
 # =====================================================
 
 site:
-  name: "Showlit"
-  repoUrl: "https://github.com/pm25/showlit"
+  name: "my-website"
+  repoUrl: "https://github.com/Li-Zou/my-website"
   description: "A short description"
   author: "Li Zou"

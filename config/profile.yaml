@@ -13,20 +13,20 @@
 
 profile:
   name: "Li Zou"
-  headline: "Student @ [Your University]"
-  email: "your-email@gmail.com"
-  location: null
-  profileImage: "https://github.com/pm25.png"
+  headline: "Machine Learning Scientist"
+  email: "L.Zou@tudelft.nl"
+  location: Delft, Netherlands
+  profileImage: "/data/images/LiZou1.png"
 
   links:
     - name: "LinkedIn"
-      url: "https://www.linkedin.com/in/[your-linkedin]"
+      url: "https://www.linkedin.com/in/li-zou-83b367279"
       icon:
         name: "FaLinkedin"
         package: "react-icons/fa6"
 
     - name: "Google Scholar"
-      url: "https://scholar.google.com/citations?user=[your-id]"
+      url: "https://scholar.google.com/citations?user=wDsWlTYAAAAJ&hl=en"
       icon:
         name: "FaGoogleScholar"
         package: "react-icons/fa6"
@@ -38,63 +38,75 @@ profile:
         package: "react-icons/fa6"
 
     - name: "Github"
-      url: "https://github.com/[your-github]"
+      url: "https://github.com/Li-Zou?tab=repositories"
       icon:
         name: "FaGithub"
         package: "react-icons/fa6"
 
-    - name: "Facebook"
-      url: "https://www.facebook.com/[your-facebook]"
-      icon:
-        name: "FaSquareFacebook"
-        package: "react-icons/fa6"
+    #- name: "Facebook"
+    #  url: "https://www.facebook.com/[your-facebook]"
+    #  icon:
+    #    name: "FaSquareFacebook"
+    #    package: "react-icons/fa6"
 
   # you can use HTML syntax here (e.g. <br/>, <a>, <strong>, ...)
   biography: |
-    Hi! I'm <strong>[Your Name]</strong>, a <em>[Your Title]</em> passionate about <em>[field or topic]</em>. Currently, I work as <em>[current role]</em> at <em>[organization]</em>, where I <em>[briefly describe your work or mission]</em>. 
-    With a background in <em>[academic or professional background]</em>, I've developed strong interests in <em>[key interests or specialties]</em> and have contributed to projects like <i>[example project]</i> and <i>[another example]</i>, all focused on <em>[broader goal or impact]</em>.
+    Hi! I’m currently a ML scientist at the Haptic Interface Technology Lab in Delft. My work focuses on developing AI models to classify materials and uncover the underlying mechanisms of tactile perception.
     <div class="my-2"></div>
-    Outside of work, I enjoy <em>[hobbies or personal interests]</em>, which inspire creativity and keep me energized. Thanks for visiting! Feel free to <a href="mailto:[your-email@example.com]" target="_blank" rel="noopener noreferrer">reach out</a> to connect.
 
+    I hold a PhD in Computer Science from TU Delft, with a focus on Network Science and Machine Learning. My research was conducted within the Multimedia Computing Group, under the supervision of Dr. Huijuan Wang and Prof. Alan Hanjalic. 
+    
+    <div class="my-2"></div>
+    I love working with AI and data. I enjoy using tools from mathematics, machine learning, deep learning and programming to analyze data, uncover patterns, and generate insights that support decision-making. 
+    This process excites me and continually motivates me to learn new tools and technologies. 
+    
+    <div class="my-2"></div>
+    Outside of work, I enjoy running marathons, playing badminton, fitness training, and cycling, which inspire creativity and keep me energized. 
+    
+    <div class="my-2"></div>
+    Thanks for visiting! Feel free to <a href="mailto:[L.Zou@tudelft.nl]" target="_blank" rel="noopener noreferrer">reach out</a> to connect.
+
+
+    
 # # =====================================================
 # # 🎓 Education Section
 # # =====================================================
 
 education:
-  - degree: "Ph.D. in [Field]"
-    school: "[University Name]"
-    years: "20XX - Present"
-    logo: "https://upload.wikimedia.org/wikipedia/en/a/a1/Arizona_State_University_seal.svg"
+  - degree: "Ph.D. in AI"
+    school: "Delft Univeristy of Technology"
+    years: "2019 - 2024"
+    logo: "/data/images/logo1.png"
 
-  - degree: "M.S. in Computer Science"
-    school: "National Taiwan University"
-    years: "2020 - 2022"
-    logo: "/images/ntu_logo.svg"
+  - degree: "M.S. in Complex Systems"
+    school: "Beĳing Normal University"
+    years: "2016 - 2019"
+    logo: "/data/images/logo1.png"
 
-  - degree: "B.S. in Computer Science"
-    school: "National Chengchi University"
-    years: "2018 - 2020"
-    logo: "/images/nccu_logo.svg"
+  - degree: "B.S. in Mathematics and Applied Mathematics"
+    school: "Chengdu University of Technology"
+    years: "2011 - 2015"
+    logo: "/data/images/logo1.png"
 
 # # =====================================================
 # # 💼 Work Experience Section
 # # =====================================================
 
 workExperience:
-  - title: "[Job Title]"
-    company: "[Company Name]"
-    years: "20XX - Present"
-    logo: "/images/nvidia_logo.webp"
+  - title: " Machine Learning Scientist"
+    company: "Haptic Interface Technology Lab"
+    years: "Oct 2024 - Present"
+    logo: "/data/images/logo1.png"
 
-  - title: "Software Engineering Intern"
-    company: "Google"
-    years: "Jul 2022 - Sep 2022"
-    logo: "/images/google_logo.svg"
+  - title: "Machine Learning Engineering Intern"
+    company: "Energy Quant Research Institution"
+    years: "Oct 2025 - Present"
+    logo: "/data/images/logo1.png"
 
-  - title: "Research Assistant"
-    company: "University of Illinois Urbana-Champaign"
-    years: "Jul 2019 - Sep 2019"
-    logo: "/images/uiuc_logo.png"
+  - title: "Consultant"
+    company: "Xueda Education Technology Group Co., Ltd."
+    years: "Jul 2015 - Sep 2016"
+    logo: "/data/images/logo1.png"
 
 # # =====================================================
 # # 🎤 Presentations / Talks Section
@@ -161,48 +173,27 @@ services:
 
 skills:
   Programming:
-    - name: "[Name]"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"
-      proficiency: "[Proficiency]"
-      description: "[Description]"
-
     - name: "Python"
       logo: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
-      proficiency: Experienced
-      description: null
-
-    - name: "JavaScript"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
       proficiency: Fluent
       description: null
 
-  Web:
-    - name: "React"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg"
-      proficiency: Advanced
-      description: null
-
-    - name: "Typescript"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg"
+    - name: "Matlab"
+      logo: "/data/images/matlab.png"
       proficiency: Fluent
       description: null
 
-    - name: "TailwindCSS"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
+    - name: "C++"
+      logo: "/data/images/C.png"
+      proficiency: Intermediate
+      description: null
+
+    - name: "SQL"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"
       proficiency: Fluent
       description: null
 
-    - name: "Next.js"
-      logo: "https://logo.svgcdn.com/devicon/nextjs-original.png"
-      proficiency: Fluent
-      description: null
-
-  Machine Learning:
-    - name: "PyTorch"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"
-      proficiency: Experienced
-      description: null
-
+  Deep Learning:
     - name: "TensorFlow"
       logo: "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"
       proficiency: Fluent
@@ -212,17 +203,64 @@ skills:
       logo: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"
       proficiency: Fluent
       description: null
+  
+    - name: "PyTorch"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"
+      proficiency: Intermediate
+      description: null
 
-  Research:
-    - name: "Machine Learning"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/2/2a/OOjs_UI_icon_academic-progressive.svg"
-      proficiency: 2020 - Current
-      description: "General machine learning methods and applied research."
+  Machine Learning:   
+    - name: "Scikit-learn"
+      logo: "/data/images/Scikit_learn_logo_small.svg"
+      proficiency: Fluent
+      description: null
 
-    - name: "Representation Learning"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/2/2a/OOjs_UI_icon_academic-progressive.svg"
-      proficiency: 2024 - 2025
-      description: "Learning meaningful embeddings and feature representations from data."
+    - name: "Matplotlib"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg"
+      proficiency: Fluent
+      description: null
+
+    - name: "PySpark"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"
+      proficiency: Intermediate
+      description: null
+
+    - name: "Pandas"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"
+      proficiency: Fluent
+      description: null
+
+    - name: "Numpy"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"
+      proficiency: Fluent
+      description: null
+
+  MLOPs:
+    - name: "git"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"
+      proficiency: Fluent
+      description: null
+
+    - name: "dvc"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/a/af/Data_Version_Control._Official_Logo_by_Iterative.ai.png"
+      proficiency: Fluent
+      description: null
+
+    - name: "mlflow"
+      logo: "/data/images/mlflow.png"
+      proficiency: Intermediate
+      description: null
+  
+    - name: "docker"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/1/1e/Docker_Logo.png"
+      proficiency: Intermediate
+      description: null
+
+    - name: "Azure"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg"
+      proficiency: Intermediate
+      description: null
+
 
   Language:
     - name: "English"
@@ -230,7 +268,12 @@ skills:
       proficiency: Fluent
       description: "Professional working proficiency."
 
-    - name: "Taiwanese Hokkien"
+    - name: "Chinese"
       logo: "https://upload.wikimedia.org/wikipedia/commons/e/e0/OOjs_UI_icon_language-ltr-progressive.svg"
       proficiency: Native
-      description: "Native fluency."
+      description: null
+
+    - name: "Dutch"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/e/e0/OOjs_UI_icon_language-ltr-progressive.svg"
+      proficiency: Beginner
+      description: null

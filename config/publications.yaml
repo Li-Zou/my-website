@@ -18,33 +18,70 @@
 # =====================================================
 
 publications:
-  authorName: "Pin-Yen Huang" # Your name here (to highlight your name in publications)
+  authorName: "L Zou" # Your name here (to highlight your name in publications)
 
   items:
-    - title: "[Publication Title]"
-      authors: "[Author Names]"
-      year: "[Year]"
-      venue: "[Conference / Journal Name]"
-      link: "https://example.com/your-publication-link"
+    - title: "Vulnerability of information transport on temporal networks to link removal"
+      authors: "L Zou, H Wang"
+      year: 2025
+      venue: "IEEE Transactions on Network Science and Engineering"
+      link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wDsWlTYAAAAJ&sortby=pubdate&citation_for_view=wDsWlTYAAAAJ:W7OEmFMy1HYC"
       featured: true
 
-    - title: "RankUp: Boosting Semi-Supervised Regression with an Auxiliary Ranking Classifier"
-      authors: "Pin-Yen Huang, Szu-Wei Fu, Yu Tsao"
+    - title: "Persistent homology for structural characterization in disordered systems"
+      authors: "A Wang, L Zou"
+      year: 2025
+      venue: "Physical Review E"
+      link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wDsWlTYAAAAJ&sortby=pubdate&citation_for_view=wDsWlTYAAAAJ:Y0pCki6q_DkC"
+      featured: true
+
+    - title: "Prediction and Intervention Strategy Design on Temporal Networksl"
+      authors: "L Zou"
       year: 2024
-      venue: "38th Conference on Neural Information Processing Systems (NeurIPS 2024)"
-      link: "https://arxiv.org/abs/2410.22124"
+      venue: "Delft University of Technology"
+      link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wDsWlTYAAAAJ&sortby=pubdate&citation_for_view=wDsWlTYAAAAJ:Tyk-4Ss8FVUCC"
       featured: true
 
-    - title: "An Enhanced Mondrian Anonymization Model based on Self-Organizing Map"
-      authors: "Peter Shaojui Wang, Pin-Yen Huang, Yu-An Tsai, Raylin Tso"
-      year: 2020
-      venue: "15th Asia Joint Conference on Information Security (AsiaJCIS 2020)"
-      link: "https://ieeexplore.ieee.org/abstract/document/9194139"
-      featured: true
-
-    - title: "[Publication Title]"
-      authors: "[Author Names]"
-      year: "[Year]"
-      venue: "[Conference / Journal Name]"
-      link: "https://example.com/your-publication-link"
+    - title: "Short-and long-term temporal network prediction based on network memory"
+      authors: "L Zou, A Ceria, H Wang"
+      year: 2023
+      venue: "Applied Network Science"
+      link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wDsWlTYAAAAJ&sortby=pubdate&citation_for_view=wDsWlTYAAAAJ:IjCSPb-OGe4C"
       featured: false
+
+    - title: "Memory Based Temporal Network Prediction"
+      authors: "L Zou, A Wang, H Wang"
+      year: 2023
+      venue: "Complex Networks and Their Applications XI"
+      link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wDsWlTYAAAAJ&sortby=pubdate&citation_for_view=wDsWlTYAAAAJ:qjMakFHDy7sC"
+      featured: false
+
+    - title: "Temporal Network Prediction and Interpretation"
+      authors: "L Zou, XX Zhan, J Sun, A Hanjalic, H Wango"
+      year: 2021
+      venue: "IEEE Transactions on Network Science and Engineering"
+      link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wDsWlTYAAAAJ&sortby=pubdate&citation_for_view=wDsWlTYAAAAJ:9yKSN-GCB0IC"
+      featured: false
+
+    - title: "Link prediction in growing networks with aging"
+      authors: "L Zou, C Wang, A Zeng, Y Fan, Z Di"
+      year: 2021
+      venue: "Social Networks"
+      link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wDsWlTYAAAAJ&sortby=pubdate&citation_for_view=wDsWlTYAAAAJ:d1gkVwhDpl0C"
+      featured: false
+
+    - title: "Connecting node age with centrality measurement in growing networks"
+      authors: "L Zou, A Wang, A Zeng, Y Fan, Z Di"
+      year: 2019
+      venue: "Journal of Statistical Mechanics: Theory and Experiment"
+      link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wDsWlTYAAAAJ&sortby=pubdate&citation_for_view=wDsWlTYAAAAJ:u5HHmVD_uO8C"
+      featured: false
+
+
+
+
+
+
+
+
+

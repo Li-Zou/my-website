@@ -17,7 +17,7 @@
 # =====================================================
 
 giscus:
-  repo: "pm25/showlit" # data-repo
+  repo: "Li-Zou/my-website" # data-repo
   repoId: "R_kgDONgMOyA" # data-repo-id
   category: "General" # data-category
   categoryId: "DIC_kwDONgMOyM4Cq4Ga" # data-category-id

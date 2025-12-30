@@ -1,26 +1,26 @@
 export const publicationsFeatured = {
-  authorName: `Pin-Yen Huang`,
+  authorName: `L Zou`,
   items: [
     {
-      title: `[Publication Title]`,
-      authors: `[Author Names]`,
-      year: `[Year]`,
-      venue: `[Conference / Journal Name]`,
-      link: `https://example.com/your-publication-link`,
+      title: `Vulnerability of information transport on temporal networks to link removal`,
+      authors: `L Zou, H Wang`,
+      year: 2025,
+      venue: `IEEE Transactions on Network Science and Engineering`,
+      link: `https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wDsWlTYAAAAJ&sortby=pubdate&citation_for_view=wDsWlTYAAAAJ:W7OEmFMy1HYC`
     },
     {
-      title: `RankUp: Boosting Semi-Supervised Regression with an Auxiliary Ranking Classifier`,
-      authors: `Pin-Yen Huang, Szu-Wei Fu, Yu Tsao`,
+      title: `Persistent homology for structural characterization in disordered systems`,
+      authors: `A Wang, L Zou`,
+      year: 2025,
+      venue: `Physical Review E`,
+      link: `https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wDsWlTYAAAAJ&sortby=pubdate&citation_for_view=wDsWlTYAAAAJ:Y0pCki6q_DkC`
+    },
+    {
+      title: `Prediction and Intervention Strategy Design on Temporal Networksl`,
+      authors: `L Zou`,
       year: 2024,
-      venue: `38th Conference on Neural Information Processing Systems (NeurIPS 2024)`,
-      link: `https://arxiv.org/abs/2410.22124`,
-    },
-    {
-      title: `An Enhanced Mondrian Anonymization Model based on Self-Organizing Map`,
-      authors: `Peter Shaojui Wang, Pin-Yen Huang, Yu-An Tsai, Raylin Tso`,
-      year: 2020,
-      venue: `15th Asia Joint Conference on Information Security (AsiaJCIS 2020)`,
-      link: `https://ieeexplore.ieee.org/abstract/document/9194139`,
-    },
-  ],
+      venue: `Delft University of Technology`,
+      link: `https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wDsWlTYAAAAJ&sortby=pubdate&citation_for_view=wDsWlTYAAAAJ:Tyk-4Ss8FVUCC`
+    }
+  ]
 };
