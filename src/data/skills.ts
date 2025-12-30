@@ -8,13 +8,13 @@ export const skills = {
     },
     {
       name: `Matlab`,
-      logo: `/my-website/data/images/matlab.png`,
+      logo: `https://github.com/Li-Zou/my-website/tree/main/data/images/matlab.png`,
       proficiency: `Fluent`,
       description: null
     },
     {
       name: `C++`,
-      logo: `/my-website/data/images/C.png`,
+      logo: `/my-website/images/C.png`,
       proficiency: `Intermediate`,
       description: null
     },
@@ -48,7 +48,7 @@ export const skills = {
   "Machine Learning": [
     {
       name: `Scikit-learn`,
-      logo: `/my-website/data/images/Scikit_learn_logo_small.svg`,
+      logo: `/my-website/images/Scikit_learn_logo_small.svg`,
       proficiency: `Fluent`,
       description: null
     },
@@ -92,7 +92,7 @@ export const skills = {
     },
     {
       name: `mlflow`,
-      logo: `/my-website/data/images/mlflow.png`,
+      logo: `/my-website/images/mlflow.png`,
       proficiency: `Intermediate`,
       description: null
     },

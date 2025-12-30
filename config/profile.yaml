@@ -16,7 +16,7 @@ profile:
   headline: "Machine Learning Scientist"
   email: "L.Zou@tudelft.nl"
   location: Delft, Netherlands
-  profileImage: "https://github.com/Li-Zou/my-website/tree/main/data/images/LiZou1.png"
+  profileImage: "/images/LiZou1.png"
 
   links:
     - name: "LinkedIn"
@@ -76,17 +76,17 @@ education:
   - degree: "Ph.D. in AI"
     school: "Delft Univeristy of Technology"
     years: "2019 - 2024"
-    logo: "https://github.com/Li-Zou/my-website/tree/main/data/images/logo1.png"
+    logo: "/images/logo1.png"
 
   - degree: "M.S. in Complex Systems"
     school: "Beĳing Normal University"
     years: "2016 - 2019"
-    logo: "https://github.com/Li-Zou/my-website/tree/main/data/images/logo1.png"
+    logo: "/images/logo1.png"
 
   - degree: "B.S. in Mathematics and Applied Mathematics"
     school: "Chengdu University of Technology"
     years: "2011 - 2015"
-    logo: "https://github.com/Li-Zou/my-website/tree/main/data/images/logo1.png"
+    logo: "/images/logo1.png"
 
 # # =====================================================
 # # 💼 Work Experience Section
@@ -96,17 +96,17 @@ workExperience:
   - title: " Machine Learning Scientist"
     company: "Haptic Interface Technology Lab"
     years: "Oct 2024 - Present"
-    logo: "https://github.com/Li-Zou/my-website/tree/main/data/images/logo1.png"
+    logo: "/images/logo1.png"
 
   - title: "Machine Learning Engineering Intern"
     company: "Energy Quant Research Institution"
     years: "Oct 2025 - Present"
-    logo: "https://github.com/Li-Zou/my-website/tree/main/data/images/logo1.png"
+    logo: "/images/logo1.png"
 
   - title: "Consultant"
     company: "Xueda Education Technology Group Co., Ltd."
     years: "Jul 2015 - Sep 2016"
-    logo: "https://github.com/Li-Zou/my-website/tree/main/data/images/logo1.png"
+    logo: "/images/logo1.png"
 
 # # =====================================================
 # # 🎤 Presentations / Talks Section
@@ -184,7 +184,7 @@ skills:
       description: null
 
     - name: "C++"
-      logo: "https://github.com/Li-Zou/my-website/tree/main/data/images/C.png"
+      logo: "/images/C.png"
       proficiency: Intermediate
       description: null
 
@@ -211,7 +211,7 @@ skills:
 
   Machine Learning:   
     - name: "Scikit-learn"
-      logo: "https://github.com/Li-Zou/my-website/tree/main/data/images/Scikit_learn_logo_small.svg"
+      logo: "/images/Scikit_learn_logo_small.svg"
       proficiency: Fluent
       description: null
 
@@ -247,7 +247,7 @@ skills:
       description: null
 
     - name: "mlflow"
-      logo: "https://github.com/Li-Zou/my-website/tree/main/data/images/mlflow.png"
+      logo: "/images/mlflow.png"
       proficiency: Intermediate
       description: null
   

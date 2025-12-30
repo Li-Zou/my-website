@@ -5,7 +5,7 @@ export const profile = {
   headline: `Machine Learning Scientist`,
   email: `L.Zou@tudelft.nl`,
   location: `Delft, Netherlands`,
-  profileImage: `/my-website/data/images/LiZou1.png`,
+  profileImage: `/my-website/images/LiZou1.png`,
   links: [
     {
       name: `LinkedIn`,

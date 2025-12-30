@@ -2,7 +2,7 @@ import { LuUser, LuWrench, LuLibraryBig, LuNewspaper, LuClapperboard, LuMusic } 
 
 export const sidebar = {
   userName: `Hi hi`,
-  profileImage: `/my-website/data/images/cat.jpg`,
+  profileImage: `/my-website/images/cat.jpg`,
   sections: [
     {
       title: `About Me`,
