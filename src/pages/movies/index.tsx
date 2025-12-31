@@ -13,11 +13,11 @@ export default function MoviesPage() {
         <div className="space-y-4">
           <div className="flex flex-row justify-center items-center gap-4 text-4xl font-semibold">
             <FaFilm />
-            Movies
+            Hobbies
           </div>
 
           <p className="text-center text-lg text-muted-foreground leading-relaxed italic opacity-80">
-            Some of my favorite movies
+            Outside of work, I enjoy ...
           </p>
         </div>
 
