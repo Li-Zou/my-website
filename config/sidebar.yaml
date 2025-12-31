@@ -33,11 +33,11 @@ sidebar:
     #    name: LuNewspaper
     #    package: "react-icons/lu"
 
-   # - title: Hobbies
-   #   url: "movies"
-   #   icon:
-   #     name: LuClapperboard
-   #     package: "react-icons/lu"
+    - title: Hobbies
+      url: "movies"
+      icon:
+        name: LuClapperboard
+        package: "react-icons/lu"
 
     - title: Music
       url: "music"

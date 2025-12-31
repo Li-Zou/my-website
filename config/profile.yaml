@@ -191,14 +191,14 @@ talks:
 services:
   - category: "Conference"
     role: "Volunteer"
-    organization: "Dutch Network Science Society"
+    organization: "Dutch NetSci Summer Symposium 2023"
     date: "2023"
     link: null
     image: null
 
   - category: "Teaching"
     role: "Teaching Assistant"
-    organization: "TU Delft, Modeling and data analysis in complex network "
+    organization: "TU Delft, Modeling and Data Analysis in Complex Network "
     date: "2021"
     link: null
     image: null
