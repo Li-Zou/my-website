@@ -16,8 +16,8 @@
 projects:
   items:
     - id: "Deep-learning" # name of your GitHub repository (from: github.com/<your-username>/<repo-name>)
-      displayName: "Deep learning3" # name that will be displayed on the website
-      previewImage: https://github.com/Li-Zou/my-website/blob/768777d1575f0de557a9c31fb1657f55755db225/public/images/deep_learning.jpg
+      displayName: "Deep learning1" # name that will be displayed on the website
+      previewImage: "/public/images/deep_learning.jpg"
       featured: true
 
     - id: "example-project" # name of your GitHub repository (from: github.com/<your-username>/<repo-name>)
