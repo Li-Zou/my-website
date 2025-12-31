@@ -30,11 +30,6 @@ projects:
       previewImage: https://pm25.github.io/showlit/images/full_logo.png
       featured: true
 
-    - id: "AB-test"
-      displayName: "AB testing2"
-      previewImage: https://raw.githubusercontent.com/pm25/simpleplus-beamerTheme/master/preview/slide-1.webp
-      featured: true
-
     - id: "pm25.github.io"
       displayName: "pm25.github.io"
       previewImage: null

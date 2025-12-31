@@ -222,7 +222,7 @@ skills:
       description: null
 
     - name: "Matlab"
-      logo: "https://github.com/Li-Zou/my-website/tree/main/data/images/matlab.png"
+      logo: "/images/matlab.png"
       proficiency: Fluent
       description: null
 
