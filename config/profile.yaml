@@ -124,21 +124,21 @@ talks:
     title: "Vulnerability of information transport on temporal networks to link removal"
     organization: "COMPLEX NETWORKS 2023"
     date: "[Nov. 2023, Menton Riviera, France]"
-    link: null
+    link: https://li-zou.github.io/personal.github.io/files/slides/Poster_France.pdf
     image: null
 
   - category: "Conference"
     title: "Short- and long-term temporal network prediction based on network memory"
     organization: "NetSci 2023"
     date: "[Jul. 2023, Vienna, Austria]"
-    link: null
+    link: https://li-zou.github.io/personal.github.io/files/slides/Poster1_long_term.pdf
     image: null
 
   - category: "Conference"
     title: "Temporal network prediction and interpretation"
     organization: "COMPLEX NETWORKS 2022"
     date: "[Nov. 2023, Palermo, Italy]"
-    link: null
+    link: https://ieeexplore.ieee.org/abstract/document/9665319
     image: null
 
   - category: "Conference"
@@ -155,6 +155,28 @@ talks:
     link: null
     image: null
     
+  - category: "Summer School"
+    title: "ACDL 2022, 5th Advanced Online & Onsite Course on Data Science & Machine Learning"
+    organization: "Università di Catania"
+    date: "[May. 2022, Siena, Italy]"
+    link: null
+    image: null
+
+  - category: "Winter School"
+    title: "BigDat 2020, 6th International Winter School on Big Data"
+    organization: "Università Politecnica delle Marche"
+    date: "[2020, Italy]"
+    link: null
+    image: null
+
+  - category: "Winter School"
+    title: "The BNU-ASU intensive winter school on complex system"
+    organization: "Arizona State University"
+    date: "[2018, USA]"
+    link: null
+    image: null
+
+
   #- category: "Workshop"
   #  title: "Deep Learning with Keras"
   #  organization: "University of Illinois Urbana-Champaign (UIUC)"
