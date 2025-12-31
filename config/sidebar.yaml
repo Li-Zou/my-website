@@ -27,17 +27,17 @@ sidebar:
         name: LuLibraryBig
         package: "react-icons/lu"
 
-    - title: Articles
-      url: "articles"
-      icon:
-        name: LuNewspaper
-        package: "react-icons/lu"
+    #- title: Articles
+    #  url: "articles"
+    #  icon:
+    #    name: LuNewspaper
+    #    package: "react-icons/lu"
 
-    - title: Movies
-      url: "movies"
-      icon:
-        name: LuClapperboard
-        package: "react-icons/lu"
+   # - title: Hobbies
+   #   url: "movies"
+   #   icon:
+   #     name: LuClapperboard
+   #     package: "react-icons/lu"
 
     - title: Music
       url: "music"
