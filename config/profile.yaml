@@ -113,27 +113,55 @@ workExperience:
 # # =====================================================
 
 talks:
-  - category: "Misc"
+  - category: "Conference"
     title: "AI for Haptic"
     organization: "IEEE World Haptics Conference 2025"
-    date: "[July 2025, South Korea]"
-    link: "https://2025.worldhaptics.org/welcome-message/"
-    image: "https://li-zou.github.io/personal.github.io/files/slides/WHC2025.pdf"
-
-    
-  - category: "Workshop"
-    title: "Deep Learning with Keras"
-    organization: "University of Illinois Urbana-Champaign (UIUC)"
-    date: "Sep 4, 2019"
+    date: "[Jul. 2025, Suwon, South Korea]"
     link: null
-    image: "https://pm25.github.io/images/uiuc-workshop.webp"
-
-  - category: "Workshop"
-    title: "Practical Guide to PyTorch"
-    organization: "ABC University"
-    date: "Dec 5, 2022"
-    link: "https://example.com/workshop-talk"
     image: null
+
+  - category: "Conference"
+    title: "Vulnerability of information transport on temporal networks to link removal"
+    organization: "COMPLEX NETWORKS 2023"
+    date: "[Nov. 2023, Menton Riviera, France]"
+    link: null
+    image: null
+
+  - category: "Conference"
+    title: "Short- and long-term temporal network prediction based on network memory"
+    organization: "NetSci 2023"
+    date: "[Jul. 2023, Vienna, Austria]"
+    link: null
+    image: null
+
+  - category: "Conference"
+    title: "Temporal network prediction and interpretation"
+    organization: "COMPLEX NETWORKS 2022"
+    date: "[Nov. 2023, Palermo, Italy]"
+    link: null
+    image: null
+
+  - category: "Conference"
+    title: "AI for temporal network prediction"
+    organization: "NetSci 2022"
+    date: "[Jul. 2022, Shanghai, China]"
+    link: null
+    image: null
+
+  - category: "Conference"
+    title: "Link prediction"
+    organization: "NetSci 2019"
+    date: "[May. 2019, Vermont, USA]"
+    link: null
+    image: null
+    
+  #- category: "Workshop"
+  #  title: "Deep Learning with Keras"
+  #  organization: "University of Illinois Urbana-Champaign (UIUC)"
+  #  date: "Sep 4, 2019"
+  #  link: null
+  #  image: "https://pm25.github.io/images/uiuc-workshop.webp"
+
 
 # # =====================================================
 # # 🛡️ Professional Services
