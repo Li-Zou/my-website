@@ -10,22 +10,18 @@
 movies:
   - title: "Fitness"
     posterImage: "https://Li-Zou.github.io/my-website/images/fitness.jpg"
-    note: "Just want to be strong"
+    note: "To be healthier"
 
   - title: "Half-Marathon"
     posterImage: "https://Li-Zou.github.io/my-website/images/running1.jpg"
     note: "More running, more energy"
 
-  - title: "Reading"
-    posterImage: "https://Li-Zou.github.io/my-website/images/NeapolitanNovels.png"
-    note: "Just want to understand more"
-
   - title: "Cycling"
     posterImage: "https://Li-Zou.github.io/my-website/images/cyc.jpg"
     note: "Explore more places"
 
-  #- title: "The Shawshank Redemption"
-  #  posterImage: "https://media.themoviedb.org/t/p/w440_and_h660_face/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg"
-  #  note: "A timeless story of hope and perseverance that reminds me to stay resilient, no matter the odds."
+  - title: "Reading"
+    posterImage: "https://Li-Zou.github.io/my-website/images/NeapolitanNovels.png"
+    note: "Want to understand more"
 
 
