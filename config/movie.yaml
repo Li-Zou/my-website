@@ -18,11 +18,11 @@ movies:
 
   - title: "Reading"
     posterImage: "https://Li-Zou.github.io/my-website/images/NeapolitanNovels.png"
-    note: Just want to understand more
+    note: "Just want to understand more"
 
   - title: "Cycling"
     posterImage: "https://Li-Zou.github.io/my-website/images/cyc.jpg"
-    note: null
+    note: "Explore more places"
 
   #- title: "The Shawshank Redemption"
   #  posterImage: "https://media.themoviedb.org/t/p/w440_and_h660_face/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg"
