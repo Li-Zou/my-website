@@ -8,17 +8,21 @@
 # =====================================================
 
 movies:
-  - title: "Half-Marathon"
-    posterImage: "https://Li-Zou.github.io/my-website/images/running.jpg"
-    note: "[Movie Description]"
-
   - title: "Fitness"
     posterImage: "https://Li-Zou.github.io/my-website/images/fitness.jpg"
-    note: "[Movie Description]"
+    note: "Just want to be strong"
+
+  - title: "Half-Marathon"
+    posterImage: "https://Li-Zou.github.io/my-website/images/running1.jpg"
+    note: "More running, more energy"
 
   - title: "Reading"
-    posterImage: "https://Li-Zou.github.io/my-website/images/minimalisam.png"
-    note: "[Movie Description]"
+    posterImage: "https://Li-Zou.github.io/my-website/images/NeapolitanNovels.png"
+    note: Just want to understand more
+
+  - title: "Cycling"
+    posterImage: "https://Li-Zou.github.io/my-website/images/cyc.jpg"
+    note: null
 
   #- title: "The Shawshank Redemption"
   #  posterImage: "https://media.themoviedb.org/t/p/w440_and_h660_face/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg"
