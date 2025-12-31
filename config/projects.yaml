@@ -16,8 +16,8 @@
 projects:
   items:
     - id: "Deep-learning" # name of your GitHub repository (from: github.com/<your-username>/<repo-name>)
-      displayName: "Deep learning2" # name that will be displayed on the website
-      previewImage: /images/full_logo.png
+      displayName: "Deep learning" # name that will be displayed on the website
+      previewImage: data/full_logo.png
       featured: true
 
     - id: "example-project" # name of your GitHub repository (from: github.com/<your-username>/<repo-name>)
