@@ -31,11 +31,11 @@ profile:
         name: "FaGoogleScholar"
         package: "react-icons/fa6"
 
-    - name: "Résumé"
-      url: "/pdf/sample-resume.pdf"
-      icon:
-        name: "FaRegIdBadge"
-        package: "react-icons/fa6"
+    #- name: "Résumé"
+    #  url: "/pdf/sample-resume.pdf"
+    #  icon:
+    #    name: "FaRegIdBadge"
+    #    package: "react-icons/fa6"
 
     - name: "Github"
       url: "https://github.com/Li-Zou?tab=repositories"

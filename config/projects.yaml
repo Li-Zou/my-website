@@ -20,9 +20,9 @@ projects:
       previewImage: https://Li-Zou.github.io/my-website/images/DL.png
       featured: true
 
-    - id: "example-project" # name of your GitHub repository (from: github.com/<your-username>/<repo-name>)
-      displayName: "[Project Name]" # name that will be displayed on the website
-      previewImage: https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg
+    - id: "LLM-Build-a-Semantic-Book-Recommender" # name of your GitHub repository (from: github.com/<your-username>/<repo-name>)
+      displayName: "Use LLM to build a book recommender" # name that will be displayed on the website
+      previewImage: https://Li-Zou.github.io/my-website/images/LLM_book_recommender.png
       featured: true
 
     - id: "showlit"
