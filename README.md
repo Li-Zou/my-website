@@ -74,11 +74,13 @@ See how ✨Showlit looks in both light and dark themes:
 
 ### 🌞 Light Mode
 
-![Light Mode][screenshot-light]
+<img width="800" height="500" alt="QQ_1768582901109" src="https://github.com/user-attachments/assets/19342c90-ce12-41cf-8055-860d0afe5039" />
+
 
 ### 🌚 Dark Mode
 
-![Dark Mode][screenshot-dark]
+<img width="800" height="500" alt="QQ_1768583137654" src="https://github.com/user-attachments/assets/ccb40768-0f84-4521-913a-8fc9070ce89b" />
+
 
 <p align="right"><a href="#readme-top">⬆️ Back to top</a></p>
 
