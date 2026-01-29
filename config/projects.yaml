@@ -15,6 +15,11 @@
 
 projects:
   items:
+    - id: "Customer-Subscription-Analysis"
+      displayName: "Customer Subscription Analysis"
+      previewImage: https://Li-Zou.github.io/my-website/images/customer_chrun.png
+      featured: true
+      
     - id: "Deep-learning" # name of your GitHub repository (from: github.com/<your-username>/<repo-name>)
       displayName: "Deep learning" # name that will be displayed on the website
       previewImage: https://Li-Zou.github.io/my-website/images/DL.png
@@ -23,11 +28,6 @@ projects:
     - id: "LLM-Build-a-Semantic-Book-Recommender" # name of your GitHub repository (from: github.com/<your-username>/<repo-name>)
       displayName: "Use LLM to build a book recommender" # name that will be displayed on the website
       previewImage: https://Li-Zou.github.io/my-website/images/LLM_book_recommender.png
-      featured: true
-
-    - id: "Customer-Subscription-Analysis"
-      displayName: "Customer Subscription Analysis"
-      previewImage: https://Li-Zou.github.io/my-website/images/customer_chrun.png
       featured: true
 
     - id: "pm25.github.io"
