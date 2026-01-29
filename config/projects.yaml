@@ -27,7 +27,7 @@ projects:
 
     - id: "Customer-Subscription-Analysis"
       displayName: "Customer Subscription Analysis"
-      previewImage: https://Li-Zou.github.io/Customer-Subscription-Analysis/images/picture.png
+      previewImage: https://Li-Zou.github.io/Customer-Subscription-Analysis/picture.png
       featured: true
 
     - id: "pm25.github.io"
