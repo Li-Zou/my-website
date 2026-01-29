@@ -25,9 +25,9 @@ projects:
       previewImage: https://Li-Zou.github.io/my-website/images/LLM_book_recommender.png
       featured: true
 
-    - id: "showlit"
-      displayName: "Showlit22"
-      previewImage: https://pm25.github.io/showlit/images/full_logo.png
+    - id: "Customer-Subscription-Analysis"
+      displayName: "Customer Subscription Analysis"
+      previewImage: https://Li-Zou.github.io/Customer-Subscription-Analysis/images/picture.png
       featured: true
 
     - id: "pm25.github.io"
