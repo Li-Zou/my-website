@@ -30,8 +30,8 @@ projects:
       previewImage: https://Li-Zou.github.io/my-website/images/LLM_book_recommender.png
       featured: true
 
-    - id: "pm25.github.io"
-      displayName: "pm25.github.io"
-      previewImage: null
+    - id: "fraud-detection"
+      displayName: "Fraud detection"
+      previewImage: https://Li-Zou.github.io/my-website/images/fraud.png
       featured: false
 
