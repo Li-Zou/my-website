@@ -16,7 +16,7 @@
 projects:
   items:
     - id: "Customer-Subscription-Analysis"
-      displayName: "Customer Subscription Analysis"
+      displayName: "Customer subscription analysis"
       previewImage: https://Li-Zou.github.io/my-website/images/customer_chrun.png
       featured: true
       
