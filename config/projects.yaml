@@ -35,3 +35,9 @@ projects:
       previewImage: https://Li-Zou.github.io/my-website/images/fraud.png
       featured: false
 
+    - id: "Natural-Language-Processing"
+      displayName: "Natural Language Processing"
+      previewImage: https://Li-Zou.github.io/my-website/images/NLP.png
+      featured: false
+
+
