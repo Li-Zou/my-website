@@ -40,7 +40,7 @@ projects:
       previewImage: https://Li-Zou.github.io/my-website/images/NLP.png
       featured: false
       
-      - id: "Retrieval-Augmented-Generation"
+    - id: "Retrieval-Augmented-Generation"
       displayName: "Retrieval-Augmented Generation"
       previewImage: https://Li-Zou.github.io/my-website/images/RAG.jpg
       featured: true
