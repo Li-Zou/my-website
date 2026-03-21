@@ -42,7 +42,7 @@ projects:
       
     - id: "Retrieval-Augmented-Generation"
       displayName: "Retrieval-Augmented Generation"
-      previewImage: https://Li-Zou.github.io/my-website/images/RAG.jpg
+      previewImage: https://Li-Zou.github.io/my-website/images/RAG.png
       featured: true
 
 
